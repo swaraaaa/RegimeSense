@@ -3,6 +3,7 @@
 **Market Regime Detection · Hidden Markov Model · K-Means · Portfolio Optimization · R**
 
 > Final Project — MS Financial Engineering, Stevens Institute of Technology (Dec 2025)
+
 > Advisor: Prof. Ionut Florescu | Authors: Swara Dave, Swapnil Pant
 
 ---
