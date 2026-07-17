@@ -4,7 +4,9 @@
 
 > Final Project — MS Financial Engineering, Stevens Institute of Technology (Dec 2025)
 
-> Advisor: Prof. Ionut Florescu | Authors: Swara Dave, Swapnil Pant
+> Advisor: Prof. Ionut Florescu
+
+> Authors: Swara Dave, Swapnil Pant
 
 ---
 
